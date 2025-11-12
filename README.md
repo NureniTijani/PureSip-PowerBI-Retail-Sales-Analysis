@@ -124,6 +124,6 @@ Planned improvements for future iterations include:
 
 **Nureni Tijani**  
 Project Owner | Data Analyst | Power BI Developer  
-📧 *[Your Email or Portfolio Link]*  
+ 🔗 GitHub: [github.com/NureniTijani](https://github.com/NureniTijani)
 📍 United States  
-🔗 GitHub: [github.com/NureniTijani](https://github.com/NureniTijani)
+
